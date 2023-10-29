@@ -1,2 +1,2 @@
 ## Mindful Mirror
-This is the Mindful Mirror's website. 
+This is Mindful Mirror's website. 
